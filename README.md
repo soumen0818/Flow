@@ -15,8 +15,6 @@ Fully deployed and publicly accessible on the blockchain
 
 Language: Solidity ^0.8.30
 
-License: MIT
-
 Contract Name: Calculator
 
 Deployed Address: 0xDaB73A6Da3D2E0843167342382C24070c8d57f14
